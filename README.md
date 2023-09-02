@@ -9,7 +9,7 @@
 
 🌐 Learning Full Stack Web Development | 🚀 Project Manager in IT | 🌟 System Transformation
 
-### 👨‍💻About me
+## 👨‍💻About me
 
 I've been managing system transformation projects over the last few years and having always had a keen interest in technology and a thirst for knowledge, I'm thrilled to have found a new passion in programming, while using the Odin project for my learning journey.
 
