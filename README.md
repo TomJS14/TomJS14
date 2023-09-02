@@ -21,12 +21,12 @@ If i'm not working or studying, you'll find me with my two dogs Frank & Pablo. F
 
 Some of my projects so far: 
 
-[Etch a Sketch](https://github.com/TomJS14/etch-a-sketch):  This was my first project with a good deal of DOM manipulation
-[Calculator](https://github.com/TomJS14/calculator): UI Design, a little Math and event delegation. I enjoyed this one!
-[To Do](https://github.com/TomJS14/to-do): Working with local storage, UI design and modular code structuring
-[Sign up form](https://github.com/TomJS14/user-form): Form Validation, and a little CSS trickery / animations.
-[Weather App](https://github.com/TomJS14/weather-app): Working with API's, Async functions and promises
-[Knight Travails](https://github.com/TomJS14/knight-travails): Working with data structures and algorithms to find the shortest path for a knight to travel across the chess board.
+-[Etch a Sketch](https://github.com/TomJS14/etch-a-sketch):  This was my first project with a good deal of DOM manipulation
+-[Calculator](https://github.com/TomJS14/calculator): UI Design, a little Math and event delegation. I enjoyed this one!
+-[To Do](https://github.com/TomJS14/to-do): Working with local storage, UI design and modular code structuring
+-[Sign up form](https://github.com/TomJS14/user-form): Form Validation, and a little CSS trickery / animations.
+-[Weather App](https://github.com/TomJS14/weather-app): Working with API's, Async functions and promises
+-[Knight Travails](https://github.com/TomJS14/knight-travails): Working with data structures and algorithms to find the shortest path for a knight to travel across the chess board.
 
 ### 🌱 What I'm currently working on
 
