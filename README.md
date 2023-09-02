@@ -7,7 +7,7 @@
 
 #  Hello, I'm Tom 👋
 
-🌐 Learning Full Stack Web Development | 🚀 Project Manager in IT | 🌟 System Transformation
+🌐 Learning Full Stack Web Development | 🚀 Project Manager in IT | 🌟 Digital Transformation
 
 
 
