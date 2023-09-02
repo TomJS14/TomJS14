@@ -1,6 +1,3 @@
-![developerImage](https://github.com/TomJS14/TomJS14/assets/133436558/24173c19-74b9-4caa-9fc2-afa176280fd6)
-
-
 <img src="https://github.com/TomJS14/TomJS14/assets/133436558/24173c19-74b9-4caa-9fc2-afa176280fd6" alt="developer" width="50%">
 
 <!---
