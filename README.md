@@ -40,7 +40,7 @@ I'm currently working on my Battleship game for my final Javascript project, I a
 
 
 
-## 🛠️ Some of the technologies I've been working with: 
+## 🛠️ Some of the tools i use: 
 
 <p align="center">
   <a href="https://skillicons.dev">
