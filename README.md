@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TomJS14&label=Profile%20views&color=24ab77&style=flat" alt="GITHUB-USERNAME" /> </p>
 
-##  Hello, I'm Tom 👋
+#  Hello, I'm Tom 👋
 
 🌐 Learning Full Stack Web Development | 🚀 Project Manager in IT | 🌟 System Transformation
 
@@ -15,7 +15,7 @@ I've been managing system transformation projects over the last few years and ha
 
 If i'm not working or studying, you'll find me with my two dogs Frank & Pablo. Failing that, I'll be at the gym, Jiu Jitsu or somewhere travelling!
 
-### 🚀 My Progress
+## 🚀 My Progress
 
 👨‍💻 I'm currently honing my skills with [The Odin Project](https://www.theodinproject.com/), an excellent resource for aspiring web developers. This curriculum has a clear focus on problem solving, using documentation and building projects.
 
@@ -28,13 +28,13 @@ Some of my projects so far:
 - [Weather App](https://github.com/TomJS14/weather-app): Working with API's, Async functions and promises
 - [Knight Travails](https://github.com/TomJS14/knight-travails): Working with data structures and algorithms to find the shortest path for a knight to travel across the chess board.
 
-### 🌱 What I'm currently working on
+## 🌱 What I'm currently working on
 
 I'm currently working on my Battleship game for my final Javascript project, I am also working with Jest for this project to put into practice what I've learnt about TDD (Test driven development)
 
 
 
-### 🛠️ Some of the technologies I've been working with include: 
+## 🛠️ Some of the technologies I've been working with include: 
 
 <p align="center">
   <a href="https://skillicons.dev">
