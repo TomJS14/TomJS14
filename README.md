@@ -9,11 +9,15 @@
 
 🌐 Learning Full Stack Web Development | 🚀 Project Manager in IT | 🌟 System Transformation
 
+
+
 ## 👨‍💻About me
 
 I've been managing system transformation projects over the last few years and having always had a keen interest in technology and a thirst for knowledge, I'm thrilled to have found a new passion in programming, while using the Odin project for my learning journey.
 
 If i'm not working or studying, you'll find me with my two dogs Frank & Pablo. Failing that, I'll be at the gym, Jiu Jitsu or somewhere travelling!
+
+
 
 ## 🚀 My Progress
 
@@ -27,6 +31,8 @@ Some of my projects so far:
 - [Sign up form](https://github.com/TomJS14/user-form): Form Validation, and a little CSS trickery / animations.
 - [Weather App](https://github.com/TomJS14/weather-app): Working with API's, Async functions and promises
 - [Knight Travails](https://github.com/TomJS14/knight-travails): Working with data structures and algorithms to find the shortest path for a knight to travel across the chess board.
+
+  
 
 ## 🌱 What I'm currently working on
 
