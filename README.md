@@ -42,7 +42,6 @@ I'm currently working on my Battleship game for my final Javascript project, I a
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,webpack,jest,vscode,github)](https://skillicons.dev)
 
 
 
