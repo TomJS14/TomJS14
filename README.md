@@ -3,7 +3,7 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=TomJS14&color=green)
-![](https://komarev.com/ghpvc/?username=TomJS14)
+
 
 <!---
 TomJS14/TomJS14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
