@@ -33,7 +33,7 @@ Some of my projects so far:
 - [Weather App](https://tomjs14.github.io/weather-app/): Working with API's, Async functions and promises
 - [Knight Travails](https://github.com/TomJS14/knight-travails): Working with data structures and algorithms to find the shortest path for a knight to travel across the chess board.
 - [Battleship](https://tomjs14.github.io/battleships/): A drag and drop battleships game. (Set up for horizontal play only for now)
-- [CV-Generator](https://main--resilient-creponne-61313e.netlify.app/): A react based app for generating a CV, use of state to update components as required.
+- [CV-Generator](https://toms-cv-generator.netlify.app/): A react based app for generating a CV, use of state to update components as required.
 - [Rick & Morty Memory card game](https://memorycard-rick.netlify.app/): A react based memory card game using a Rick and Morty API, more state, more transitions and component use!
 
   
