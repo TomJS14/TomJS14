@@ -16,7 +16,7 @@
 
 I've been managing system transformation projects over the last few years and having always had a keen interest in technology and a thirst for knowledge, I'm thrilled to have found a new passion in programming, while using the Odin project for my learning journey.
 
-If i'm not working or studying, you'll find me with my two dogs Frank & Pablo. Failing that, I'll be at the gym, Jiu Jitsu or somewhere travelling!
+If i'm not working or studying, you'll find me with my two dogs Frank & Pablo. Failing that, I'll be at the gym, Jiu Jitsu or hopefully somewhere travelling!
 
 
 
@@ -26,18 +26,21 @@ If i'm not working or studying, you'll find me with my two dogs Frank & Pablo. F
 
 Some of my projects so far: 
 
-- [Etch a Sketch](https://github.com/TomJS14/etch-a-sketch):  This was my first project with a good deal of DOM manipulation
-- [Calculator](https://github.com/TomJS14/calculator): UI Design, a little Math and event delegation. I enjoyed this one!
-- [To Do](https://github.com/TomJS14/to-do): Working with local storage, UI design and modular code structuring
-- [Sign up form](https://github.com/TomJS14/user-form): Form Validation, and a little CSS trickery / animations.
-- [Weather App](https://github.com/TomJS14/weather-app): Working with API's, Async functions and promises
+- [Etch a Sketch](https://tomjs14.github.io/etch-a-sketch):  This was my first project with a good deal of DOM manipulation
+- [Calculator](https://tomjs14.github.io/calculator): UI Design, a little Math and event delegation. I enjoyed this one!
+- [To Do](https://tomjs14.github.io/to-do/): Working with local storage, UI design and modular code structuring
+- [Sign up form](https://tomjs14.github.io/sign-up-form/): Form Validation, and a little CSS trickery / animations.
+- [Weather App](https://tomjs14.github.io/weather-app/): Working with API's, Async functions and promises
 - [Knight Travails](https://github.com/TomJS14/knight-travails): Working with data structures and algorithms to find the shortest path for a knight to travel across the chess board.
+- [Battleship](https://tomjs14.github.io/battleships/): A drag and drop battleships game. (Set up for horizontal play only for now)
+- [CV-Generator](https://main--resilient-creponne-61313e.netlify.app/): A react based app for generating a CV, use of state to update components as required.
+- [Rick & Morty Memory card game](https://memorycard-rick.netlify.app/): A react based memory card game using a Rick and Morty API, more state, more transitions and component use!
 
   
 
 ## 🌱 What I'm currently working on
 
-I'm currently working on my Battleship game for my final Javascript project, I am also working with Jest for this project to put into practice what I've learnt about TDD (Test driven development)
+I'm now working through learning React and have built a few React based apps, I'm currently learning how to test within React.
 
 
 
