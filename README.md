@@ -8,13 +8,13 @@
 
 #  Hello, I'm Tom 👋
 
-🌐 Studying Full Stack Web Development | 🚀  🌟 Digital Transformation
+🌐 Studying Full Stack Development | 🚀  🌟 Digital Transformation
 
 
 
 ## 👨‍💻About me
 
-I've been managing system transformation projects over the last few years and having always had a keen interest in technology, I'm thrilled to have found a new passion in programming/web development, while using the Odin project for my learning journey.
+I've been managing system transformation projects over the last few years and having always had a keen interest in technology, I began using the odin project to learn full stack development.
 
 If i'm not working or studying, you'll find me with my two dogs Frank & Pablo. Failing that, I'll be at the gym, Jiu Jitsu or hopefully somewhere travelling!
 
@@ -22,7 +22,7 @@ If i'm not working or studying, you'll find me with my two dogs Frank & Pablo. F
 
 ## 🚀 My Progress
 
-👨‍💻 I'm currently learning with [The Odin Project](https://www.theodinproject.com/), an excellent resource for aspiring web developers. This curriculum has a clear focus on problem solving, using documentation and building projects.
+👨‍💻 I'm currently learning with [The Odin Project](https://www.theodinproject.com/), an excellent resource for aspiring developers. This curriculum has a clear focus on problem solving, using documentation and building projects.
 
 Some of my projects so far: 
 
